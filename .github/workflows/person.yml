@@ -3,8 +3,7 @@
 
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{ cron: "0 * * * *" }]
+  schedule: [{ cron: "* 0 * * 0" }] # Updates every week on Sunday
   workflow_dispatch:
   push: { branches: ["main"] }
 jobs:
