@@ -7,5 +7,3 @@ Just a software engineer coding up a storm among the [octocats](https://octodex.
 - 🗳 Worked on Microsoft's [ElectionGuard](electionguard.vote)
 - 💻 No language preference. Give me a language. I'll code it.
 - 🧗 Bouldering and rock climbing is one of [my passions](https://www.instagram.com/p/CU6Gl1bFm2v/)!
-
-![Metrics](https://github.com/keithrfung/keithrfung/blob/main/github-metrics.svg)

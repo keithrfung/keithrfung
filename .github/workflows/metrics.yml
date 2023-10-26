@@ -8,6 +8,7 @@ on:
   push: { branches: ["main"] }
 jobs:
   github-metrics:
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
